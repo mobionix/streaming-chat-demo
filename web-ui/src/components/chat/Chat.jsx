@@ -571,7 +571,7 @@ const Chat = () => {
   return (
     <>
       <header>
-        <h1>Amazon IVS Chat Web Demo</h1>
+        <h1>Latrics Aerospace Drone Streaming</h1>
       </header>
       <div className='main full-width full-height chat-container'>
         <div className='content-wrapper mg-2'>
